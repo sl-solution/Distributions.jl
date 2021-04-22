@@ -60,6 +60,8 @@ const tests = [
     "bernoulli",
     "soliton",
     "skewnormal",
+    "chi",
+    "gumbel",
 ]
 
 printstyled("Running tests:\n", color=:blue)
